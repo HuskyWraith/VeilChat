@@ -2,21 +2,15 @@
 
 ## A Cutting-Edge Blind Dating Chat Application
 
-Welcome to VeilChat, a revolutionary blind dating app developed by students at the Stevens Institute of Technology in Hoboken, NJ. VeilChat breaks the ice by connecting people through spontaneous, real-time chatting, emphasizing privacy, and putting conversations first.
+A real-time anonymous matching and messaging application designed to facilitate blind user pairing and persistent friend-based chat.
 
-### 🏛️ Developed at Stevens Institute of Technology, NJ
-
-## Group Members:
-
-- Nikhil Varma Bandaru
-- Vivaswanth Kashyap Madhusudhana
-- Jin Xin
-- Su Zhang
-- Chao Zheng
-
-## 📜 Description
-
-VeilChat is not just another dating app; it's a leap towards meaningful connections. By focusing on what truly matters, conversations, VeilChat brings people together based on mutual interests and preferences without the biases of physical appearances. Our blind chatting feature ensures privacy and anonymity, allowing users to express themselves freely.
+## 📜 Overview
+VeilChat is a cloud-based web application that enables users to connect anonymously through blind matching, establish persistent chat sessions, and exchange text, image, and video messages in real time.
+The system focuses on:
+Anonymous pairing workflow
+Real-time messaging infrastructure
+Role-based access control
+Secure media storage and delivery
 
 ### Key Features:
 
@@ -25,7 +19,7 @@ VeilChat is not just another dating app; it's a leap towards meaningful connecti
 - **Interest-Based Connections:** Start conversations based on mutual interests, fostering a deeper connection from the get-go.
 - **Profile Sharing:** Reveal profiles only when both parties agree, maintaining privacy and consent.
 
-## 🚀 Getting Started
+## 🚀 Set up
 
 To dive into the VeilChat experience, follow these simple steps:
 
